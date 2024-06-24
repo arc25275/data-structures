@@ -2,4 +2,4 @@
 /.pytest_cache
 /exam_scratch
 /venv
-/__pycache__
+*/__pycache__
